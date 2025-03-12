@@ -6,7 +6,7 @@ sdk: org.kde.Sdk//6.6
 build-extension: true
 separate-locales: false
 build-options:
-  prefix: /app/plugins/DistroAV
+  prefix: /app/plugins/VerticalCanvas
   strip: true
 
 modules:

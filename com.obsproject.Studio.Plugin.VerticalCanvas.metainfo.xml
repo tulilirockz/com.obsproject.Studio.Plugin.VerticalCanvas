@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="addon">
   <id>com.obsproject.Studio.Plugin.VerticalCanvas</id>
-  <!-- TODO: write metadata-->
-  <extends>org.virt_manager.virt-manager</extends>
+  <extends>com.obsproject.Studio</extends>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>Apache-2.0</project_license>
-  <name>QEMU</name>
-  <summary>Generic machine emulator and virtualizer and utilities for virtual machines</summary>
-  <url type="homepage">https://qemu.org/</url>
+  <project_license></project_license>
+  <name>VerticalCanvas</name>
+  <summary>Plugin for OBS Studio to add vertical canvas</summary>
+  <url type="homepage">https://github.com/Aitum/obs-vertical-canvas</url>
   <releases>
-    <release version="9.2.0" date="2024-12-10"/>
-    <release version="9.1.2" date="2024-11-20"/>
-    <release version="9.0.4" date="2024-11-20"/>
-    <release version="8.2.8" date="2024-11-20"/>
-    <release version="7.2.15" date="2024-11-20"/>
+    <release version="1.5.2" date="2025-01-16"/>
   </releases>
 </component>
